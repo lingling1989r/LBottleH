@@ -1,6 +1,6 @@
 LBottleH
 ========
-First Try Project using by GitHub
+First Try Project Here
 
 By LAX 
 By HJ
